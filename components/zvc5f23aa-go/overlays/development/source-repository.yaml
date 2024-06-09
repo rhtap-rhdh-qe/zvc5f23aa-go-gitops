@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zvc5f23aa-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zvc5f23aa-go
